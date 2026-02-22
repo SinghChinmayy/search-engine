@@ -1,0 +1,15 @@
+   FAST   Search-Engines\tare AMAZING!!!  
+
+State-of-the-art systems — like Google’s — process BILLIONS of queries/day.  
+Users don’t always type clean input:   "Find   C++ tutorials!!!"  
+
+Emails:  User.Name+test@example.com    
+URLs: https://Example.COM/search?q=AI&lang=en  
+
+Unicode text: café naïve résumé coöperate  
+Mixed line endings here...\r\nAnd here...\rAnd here...
+
+Numbers: Version 2.0, price $1,299.99, 100% reliable.
+Special chars: © ® ™ ✓ ★  
+
+    Extra    spaces    everywhere.    
