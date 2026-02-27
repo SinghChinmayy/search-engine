@@ -1,4 +1,4 @@
-# NLP Search Engine Pipeline
+# Searchy - NLP Search Engine Pipeline
 
 A modular NLP pipeline designed for document ingestion, processing, and representation.
 
